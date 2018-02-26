@@ -5,6 +5,7 @@ import hu.bme.mit.train.interfaces.TrainUser;
 
 public class TrainUserImpl implements TrainUser {
 
+//3as feladat, fix code
 	private TrainController controller;
 	private int joystickPosition;
 
