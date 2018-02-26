@@ -6,6 +6,7 @@ import hu.bme.mit.train.interfaces.TrainUser;
 
 public class TrainSensorImpl implements TrainSensor {
 
+	private int harmasfeladat;
 	private TrainController controller;
 	private TrainUser user;
 	private int speedLimit = 5;
