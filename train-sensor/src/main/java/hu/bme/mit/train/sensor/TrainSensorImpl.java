@@ -6,17 +6,12 @@ import hu.bme.mit.train.interfaces.TrainUser;
 
 public class TrainSensorImpl implements TrainSensor {
 
-<<<<<<< .merge_file_e9oOhR
+
 
 	private int harmasfeladat;
 
 	private int negyes=1;
 
-
-=======
-	private int negyes=1;
-
->>>>>>> .merge_file_X0ILcR
 	private TrainController controller;
 	private TrainUser user;
 	private int speedLimit = 5;
