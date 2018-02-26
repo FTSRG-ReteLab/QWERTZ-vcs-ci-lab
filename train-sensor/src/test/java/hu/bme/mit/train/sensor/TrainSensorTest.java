@@ -18,7 +18,7 @@ public class TrainSensorTest {
     }
 	
 	@Test
-	public void 5osfeladat(){
+	public void otosfeladat(){
 	
 }
 
